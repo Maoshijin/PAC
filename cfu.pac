@@ -4,6 +4,7 @@ var proxy = "PROXY 192.168.1.65:7222";
 
 var domains = {
   "usa.tommy.com": 1,
+  "openapp.fmy90.com": 1,   
   "finnciti.com": 1,
   "singlelogin.org": 1,
   "bookos-z1.org": 1,
