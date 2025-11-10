@@ -4,6 +4,13 @@ var proxy = "PROXY 192.168.1.65:7222";
 
 var domains = {
   "usa.tommy.com": 1,
+  "c.cfmoto.com": 1,
+  "bbs-api.iqoo.com": 1,
+  "mp.weixin.qq.com": 1,
+  "thor.weidian.com": 1,
+  "zgrb.epicc.com.cn": 1,
+  "ulp.michelin.com.cn": 1,
+  "www.520bjy.com": 1,
   "openapp.fmy90.com": 1,   
   "finnciti.com": 1,
   "singlelogin.org": 1,
