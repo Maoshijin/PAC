@@ -2630,16 +2630,16 @@ var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
     if (host == "www.haosou.com") {
-        return "PROXY 360.itzmx.com:80";
+        return "PROXY 192.168.1.65:7222";
     }
 
     var suffix;
     var pos = host.lastIndexOf('.');
     while(1) {
         suffix = host.substring(pos + 1);
-        if (suffix == "360.cn")
+        if (suffix == "openapp.fmy90.com")
             if (url.indexOf('http://') == 0)
-                return "PROXY 360.itzmx.com:80";
+                return "PROXY 192.168.1.65:7222";
         if (hasOwnProperty.call(domains, suffix)) {
             return proxy;
         }
