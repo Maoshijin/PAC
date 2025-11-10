@@ -10,7 +10,7 @@ var domains = {
   "thor.weidian.com": 1,
   "zgrb.epicc.com.cn": 1,
   "ulp.michelin.com.cn": 1,
-  "www.520bjy.com": 1,
+  "www.52bjy.com": 1,
   "openapp.fmy90.com": 1,   
   "finnciti.com": 1,
   "singlelogin.org": 1,
