@@ -2646,7 +2646,7 @@ function FindProxyForURL(url, host) {
         suffix = host.substring(pos + 1);
         if (suffix == "openapp.fmy90.com")
             if (url.indexOf('http://') == 0)
-                return "PROXY 192.168.1.65:7222";
+                return "PROXY 192.168.1.18:7222";
         if (hasOwnProperty.call(domains, suffix)) {
             return proxy;
         }
