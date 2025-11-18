@@ -1,6 +1,6 @@
 // https://pac.itzmx.com
 
-var proxy = "PROXY 192.168.1.65:7222";
+var proxy = "PROXY 192.168.1.18:7222";
 
 var domains = {
   "usa.tommy.com": 1,
