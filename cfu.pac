@@ -2637,7 +2637,7 @@ var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
     if (host == "www.haosou.com") {
-        return "PROXY 192.168.1.65:7222";
+        return "PROXY 192.168.1.18:7222";
     }
 
     var suffix;
