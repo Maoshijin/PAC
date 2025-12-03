@@ -6,7 +6,6 @@ var domains = {
   "usa.tommy.com": 1,
   "c.cfmoto.com": 1,
   "bbs-api.iqoo.com": 1,
-  "mp.weixin.qq.com": 1,
   "thor.weidian.com": 1,
   "zgrb.epicc.com.cn": 1,
   "ulp.michelin.com.cn": 1,
