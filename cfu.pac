@@ -5,6 +5,7 @@ var proxy = "PROXY 192.168.1.65:7222; DIRECT";
 
 var domains = {
   "usa.tommy.com": 1,
+  "zgrb.epicc.com.cn": 1,
   "gw.xiaocantech.com": 1,
   "c.cfmoto.com": 1,
   "kugou.com": 1,
